@@ -1,0 +1,9 @@
+tensorflow>=2.15,<2.17
+ultralytics>=8.2.0
+opencv-python>=4.9.0
+pandas>=2.0.0
+numpy>=1.26.0,<2.0.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+PyYAML>=6.0
+tensorboard>=2.15
